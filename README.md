@@ -10,6 +10,7 @@ LSB takes a key as input and mix it with the message so when a wrong key is pass
 # Usage 
 LSB : run encodelsb.m enter image, key, message and output image (don't use compressed image formats as input eg. jpg, jpeg etc...) 
       run decodelsb.m enter stego image and key
+
 DCT : run mathproject.py enter image, message and output image
                          enter stego image 
                          

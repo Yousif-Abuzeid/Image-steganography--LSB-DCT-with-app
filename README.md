@@ -14,3 +14,5 @@ LSB : run encodelsb.m enter image, key, message and output image (don't use comp
 DCT : run mathproject.py enter image, message and output image
                          enter stego image 
                          
+
+# Created by THE SYNDICATE math team EECE 25

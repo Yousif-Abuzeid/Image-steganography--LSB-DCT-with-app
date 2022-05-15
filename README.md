@@ -14,6 +14,9 @@ LSB
     (don't use compressed image formats as input eg. jpg, jpeg etc...) 
     
     run decodelsb.m enter stego image and key
+    
+    use the apps for better interaction
+    
 
 DCT 
     
